@@ -1,11 +1,3 @@
-track FJ616285.1-genbank
-type bigGenePred
-group map
-priority 1
-bigDataUrl https://mingli2023:Liming1983*@raw.githubusercontent.com/mingli2023/Test/master/FJ/FJ616285.1.bb
-longLabel Annotated CDS for HCMV strain Towne (FJ616285.1)
-shortLabel GenBank FJ616285.1
-visibility pack
 
 #############
 track UL87H_HA_ChIP
@@ -20,3 +12,4 @@ altColor 113,35,124
 alwaysZero on
 autoScale on
 maxHeightPixels 128:128:16
+#############
