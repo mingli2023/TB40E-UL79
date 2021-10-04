@@ -8,7 +8,7 @@ shortLabel GenBank FJ616285.1
 visibility pack
 
 #############
-track UL87H_Pol_II_ChIP
+track UL87H_HA_ChIP
 type bigWig 0 1000
 visibility full
 bigDataUrl https://mingli2023:Liming1983*@raw.githubusercontent.com/mingli2023/Test/master/FJ/UL87/UL87H_HA_ChIP-dedup-FJ616285.1.bw
