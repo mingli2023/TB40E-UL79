@@ -9,6 +9,318 @@ visibility pack
 
 #############
 
+track Exp1_96h_UL87HF_Flavo
+compositeTrack on
+type bigWig 0 1000
+priority 9.5
+visibility full
+shortLabel Exp1 96h UL87HF Flavo
+longLabel Exp1 96h UL87HF Flavo
+
+track Exp1_96h_UL87HF_Flavo_FW
+parent Exp1_96h_UL87HF_Flavo
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019ls@raw.githubusercontent.com/meierjl/Towne-UL87/master/FJ616285.1/UL87/Exp1_96h_UL87HF_Flavo-dedup-FJ616285.1-FW.bw
+longLabel Exp1 96h UL87HF Flavo 
+shortLabel Exp1 96h UL87HF Flavo 
+negateValues off
+color 153,58,29
+altColor 153,58,29
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+
+track Exp1_96h_UL87HF_Flavo_RV
+parent Exp1_96h_UL87HF_Flavo
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019ls@raw.githubusercontent.com/meierjl/Towne-UL87/master/FJ616285.1/UL87/Exp1_96h_UL87HF_Flavo-dedup-FJ616285.1-RV.bw
+longLabel Exp1 96h UL87HF Flavo 
+shortLabel Exp1 96h UL87HF Flavo 
+negateValues on
+color 153,58,29
+altColor 153,58,29
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+
+
+#############
+
+track Exp1_96h_UL87HF_Flavo_dTAG
+compositeTrack on
+type bigWig 0 1000
+priority 9.5
+visibility full
+shortLabel Exp1 96h UL87HF Flavo dTAG
+longLabel Exp1 96h UL87HF Flavo dTAG
+
+track Exp1_96h_UL87HF_Flavo_dTAG_FW
+parent Exp1_96h_UL87HF_Flavo_dTAG
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019ls@raw.githubusercontent.com/meierjl/Towne-UL87/master/FJ616285.1/UL87/Exp1_96h_UL87HF_Flavo_dTAG-dedup-FJ616285.1-FW.bw
+longLabel Exp1 96h UL87HF Flavo 6h dTAG 
+shortLabel Exp1 96h UL87HF Flavo 6h dTAG 
+negateValues off
+color 153,58,29
+altColor 153,58,29
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+
+track Exp1_96h_UL87HF_Flavo_dTAG_RV
+parent Exp1_96h_UL87HF_Flavo_dTAG
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019ls@raw.githubusercontent.com/meierjl/Towne-UL87/master/FJ616285.1/UL87/Exp1_96h_UL87HF_Flavo_dTAG-dedup-FJ616285.1-RV.bw
+longLabel Exp1 96h UL87HF Flavo 6h dTAG 
+shortLabel Exp1 96h UL87HF Flavo 6h dTAG 
+negateValues on
+color 153,58,29
+altColor 153,58,29
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+
+
+#############
+
+track Exp2_72h_UL87HF
+compositeTrack on
+type bigWig 0 1000
+priority 9.5
+visibility full
+shortLabel Exp2 72h UL87HF
+longLabel Exp2 72h UL87HF
+
+track Exp2_72h_UL87HF_FW
+parent Exp2_72h_UL87HF
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019ls@raw.githubusercontent.com/meierjl/Towne-UL87/master/FJ616285.1/UL87/Exp2_72h_UL87HF-dedup-FJ616285.1-FW.bw
+longLabel Exp2 72h UL87HF 
+shortLabel Exp2 72h UL87HF 
+negateValues off
+color 113,35,124
+altColor 113,35,124
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+
+track Exp2_72h_UL87HF_RV
+parent Exp2_72h_UL87HF
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019ls@raw.githubusercontent.com/meierjl/Towne-UL87/master/FJ616285.1/UL87/Exp2_72h_UL87HF-dedup-FJ616285.1-RV.bw
+longLabel Exp2 72h UL87HF 
+shortLabel Exp2 72h UL87HF 
+negateValues on
+color 113,35,124
+altColor 113,35,124
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+
+
+#############
+
+track Exp2_72h_UL87HF_dTAG
+compositeTrack on
+type bigWig 0 1000
+priority 9.5
+visibility full
+shortLabel Exp2 72h UL87HF dTAG
+longLabel Exp2 72h UL87HF dTAG
+
+track Exp2_72h_UL87HF_dTAG_FW
+parent Exp2_72h_UL87HF_dTAG
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019ls@raw.githubusercontent.com/meierjl/Towne-UL87/master/FJ616285.1/UL87/Exp2_72h_UL87HF_dTAG-dedup-FJ616285.1-FW.bw
+longLabel Exp2 72h UL87HF 6h dTAG 
+shortLabel Exp2 72h UL87HF 6h dTAG 
+negateValues off
+color 113,35,124
+altColor 113,35,124
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+
+track Exp2_72h_UL87HF_dTAG_RV
+parent Exp2_72h_UL87HF_dTAG
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019ls@raw.githubusercontent.com/meierjl/Towne-UL87/master/FJ616285.1/UL87/Exp2_72h_UL87HF_dTAG-dedup-FJ616285.1-RV.bw
+longLabel Exp2 72h UL87HF 6h dTAG 
+shortLabel Exp2 72h UL87HF 6h dTAG 
+negateValues on
+color 113,35,124
+altColor 113,35,124
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+
+
+#############
+
+track Exp2_72h_UL87HF_Flavo
+compositeTrack on
+type bigWig 0 1000
+priority 9.5
+visibility full
+shortLabel Exp2 72h UL87HF Flavo
+longLabel Exp2 72h UL87HF Flavo
+
+track Exp2_72h_UL87HF_Flavo_FW
+parent Exp2_72h_UL87HF_Flavo
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019ls@raw.githubusercontent.com/meierjl/Towne-UL87/master/FJ616285.1/UL87/Exp2_72h_UL87HF_Flavo-dedup-FJ616285.1-FW.bw
+longLabel Exp2 72h UL87HF Flavo 
+shortLabel Exp2 72h UL87HF Flavo 
+negateValues off
+color 153,58,29
+altColor 153,58,29
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+
+track Exp2_72h_UL87HF_Flavo_RV
+parent Exp2_72h_UL87HF_Flavo
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019ls@raw.githubusercontent.com/meierjl/Towne-UL87/master/FJ616285.1/UL87/Exp2_72h_UL87HF_Flavo-dedup-FJ616285.1-RV.bw
+longLabel Exp2 72h UL87HF Flavo 
+shortLabel Exp2 72h UL87HF Flavo 
+negateValues on
+color 153,58,29
+altColor 153,58,29
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+
+
+#############
+
+track Exp2_72h_UL87HF_Flavo_dTAG
+compositeTrack on
+type bigWig 0 1000
+priority 9.5
+visibility full
+shortLabel Exp2 72h UL87HF Flavo dTAG
+longLabel Exp2 72h UL87HF Flavo dTAG
+
+track Exp2_72h_UL87HF_Flavo_dTAG_FW
+parent Exp2_72h_UL87HF_Flavo_dTAG
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019ls@raw.githubusercontent.com/meierjl/Towne-UL87/master/FJ616285.1/UL87/Exp2_72h_UL87HF_Flavo_dTAG-dedup-FJ616285.1-FW.bw
+longLabel Exp2 72h UL87HF Flavo 6h dTAG 
+shortLabel Exp2 72h UL87HF Flavo 6h dTAG 
+negateValues off
+color 153,58,29
+altColor 153,58,29
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+
+track Exp2_72h_UL87HF_Flavo_dTAG_RV
+parent Exp2_72h_UL87HF_Flavo_dTAG
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019ls@raw.githubusercontent.com/meierjl/Towne-UL87/master/FJ616285.1/UL87/Exp2_72h_UL87HF_Flavo_dTAG-dedup-FJ616285.1-RV.bw
+longLabel Exp2 72h UL87HF Flavo 6h dTAG 
+shortLabel Exp2 72h UL87HF Flavo 6h dTAG 
+negateValues on
+color 153,58,29
+altColor 153,58,29
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+
+
+#############
+
+track Exp3_72h_UL87HF_Flavo
+compositeTrack on
+type bigWig 0 1000
+priority 9.5
+visibility full
+shortLabel Exp3 72h UL87HF Flavo 
+longLabel Exp3 72h UL87HF Flavo 
+
+track Exp3_72h_UL87HF_Flavo_FW
+parent Exp3_72h_UL87HF_Flavo
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019ls@raw.githubusercontent.com/meierjl/Towne-UL87/master/FJ616285.1/UL87/Exp3_72h_UL87HF_Flavo-dedup-FJ616285.1-FW.bw
+longLabel Exp3 72h UL87HF Flavo 
+shortLabel Exp3 72h UL87HF Flavo 
+negateValues off
+color 153,58,29
+altColor 153,58,29
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+
+track Exp3_72h_UL87HF_Flavo_RV
+parent Exp3_72h_UL87HF_Flavo
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019ls@raw.githubusercontent.com/meierjl/Towne-UL87/master/FJ616285.1/UL87/Exp3_72h_UL87HF_Flavo-dedup-FJ616285.1-RV.bw
+longLabel Exp3 72h UL87HF Flavo 
+shortLabel Exp3 72h UL87HF Flavo 
+negateValues on
+color 153,58,29
+altColor 153,58,29
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+
+
+#############
+
+track Exp3_72h_UL87HF_PFA_Flavo
+compositeTrack on
+type bigWig 0 1000
+priority 9.5
+visibility full
+shortLabel Exp3 72h UL87HF PFA Flavo 
+longLabel Exp3 72h UL87HF PFA Flavo 
+
+track Exp3_72h_UL87HF_PFA_Flavo_FW
+parent Exp3_72h_UL87HF_PFA_Flavo
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019ls@raw.githubusercontent.com/meierjl/Towne-UL87/master/FJ616285.1/UL87/Exp3_72h_UL87HF_PFA_Flavo-dedup-FJ616285.1-FW.bw
+longLabel Exp3 72h UL87HF Flavo 72h PFA
+shortLabel Exp3 72h UL87HF Flavo 72h PFA
+negateValues off
+color 153,58,29
+altColor 153,58,29
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+
+track Exp3_72h_UL87HF_PFA_Flavo_RV
+parent Exp3_72h_UL87HF_PFA_Flavo
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019ls@raw.githubusercontent.com/meierjl/Towne-UL87/master/FJ616285.1/UL87/Exp3_72h_UL87HF_PFA_Flavo-dedup-FJ616285.1-RV.bw
+longLabel Exp3 72h UL87HF Flavo 72h PFA
+shortLabel Exp3 72h UL87HF Flavo 72h PFA
+negateValues on
+color 153,58,29
+altColor 153,58,29
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+
+
+#############
+
 track UL87H_HA
 compositeTrack on
 type bigWig 0 1000
@@ -31,6 +343,20 @@ alwaysZero on
 autoScale on
 maxHeightPixels 128:128:16
 
+track UL87H_HA_ChIP_100-200bp_FragmentCenters
+parent UL87H_HA
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019ls@raw.githubusercontent.com/meierjl/Towne-UL87/master/FJ616285.1/UL87/2020-05-22-UL87-HA-ChIP-dedup-FJ616285.1.100-200bp.centered.bw
+longLabel UL87H HA ChIP 100-200bp FragmentCenters
+shortLabel UL87H HA ChIP 100-200bp FragmentCenters
+negateValues off
+color 164,62,240
+altColor 164,62,240
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+
 #############
 
 track UL87H_Pol_II_ChIP
@@ -45,3 +371,250 @@ altColor 113,35,124
 alwaysZero on
 autoScale on
 maxHeightPixels 128:128:16
+
+track 5-PRO-Cap-Flavo-96h-Towne
+compositeTrack on 
+type bigWig 0 1000
+group proseq-procap
+priority 11
+visibility full
+shortLabel 5' PRO-Cap Flavo 96h
+longLabel 5' PRO-Cap Flavo 96h
+
+track 5-PRO-Cap-Flavo-96h-Towne-FW
+parent 5-PRO-Cap-Flavo-96h-Towne on
+type bigWig 0 1000
+visibility full
+bigDataUrl https://raw.githubusercontent.com/P-TEFb/trackHub_HCMV/master/FJ616285.1/proseq-procap/5-PRO-Cap-Flavo-96h-Towne-FW.bw
+longLabel 5' PRO-Cap Flavo 96h
+shortLabel 5' PRO-Cap Flavo 96h 
+negateValues off
+color 34,34,255
+altColor 34,34,255
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+
+track 5-PRO-Cap-Flavo-96h-Towne-RV
+parent 5-PRO-Cap-Flavo-96h-Towne on
+type bigWig 0 1000
+visibility full
+bigDataUrl https://raw.githubusercontent.com/P-TEFb/trackHub_HCMV/master/FJ616285.1/proseq-procap/5-PRO-Cap-Flavo-96h-Towne-RV.bw
+longLabel 5' PRO-Cap Flavo 96h 
+shortLabel 5' PRO-Cap Flavo 96h 
+negateValues on
+color 34,34,255
+altColor 34,34,255
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+
+track UL87-No-dTAG-Flavo-Exp2-5
+compositeTrack on 
+type bigWig 0 1000
+group proseq-procap
+priority 11
+visibility full
+shortLabel UL87-No-dTAG-Flavo-Exp2-5
+longLabel UL87-No-dTAG-Flavo-Exp2-5
+
+track UL87-No-dTAG-Flavo-Exp2-5-FW
+parent UL87-No-dTAG-Flavo-Exp2-5 on
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019ls@raw.githubusercontent.com/meierjl/Towne-UL87/master/FJ616285.1/UL87/Exp1_96h_UL87F-Flavo-dedup-FJ616285.1-FW-5.bw
+longLabel 5' Exp1 96h UL87HF Flavo
+shortLabel 5' Exp1 96h UL87HF Flavo 
+negateValues off
+color 34,34,255
+altColor 34,34,255
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+
+track UL87-No-dTAG-Flavo-Exp2-5-RV
+parent UL87-No-dTAG-Flavo-Exp2-5 on
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019ls@raw.githubusercontent.com/meierjl/Towne-UL87/master/FJ616285.1/UL87/Exp1_96h_UL87F-Flavo-dedup-FJ616285.1-RV-5.bw
+longLabel 5' Exp1 96h UL87HF Flavo 
+shortLabel 5' Exp1 96h UL87HF Flavo 
+negateValues on
+color 34,34,255
+altColor 34,34,255
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+
+
+track UL87F-6h-dTag-Flavo-Exp2-5
+compositeTrack on 
+type bigWig 0 1000
+group proseq-procap
+priority 11
+visibility full
+shortLabel UL87F-6h-dTag-Flavo-Exp2-5
+longLabel UL87F-6h-dTag-Flavo-Exp2-5
+
+track UL87F-6h-dTag-Flavo-Exp2-5-FW
+parent UL87F-6h-dTag-Flavo-Exp2-5 on
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019ls@raw.githubusercontent.com/meierjl/Towne-UL87/master/FJ616285.1/UL87/Exp1_96h_UL87F-Flavo-dTAG-dedup-FJ616285.1-FW-5.bw
+longLabel 5' Exp1 96h UL87HF Flavo 6h dTAG 
+shortLabel 5' Exp1 96h UL87HF Flavo 6h dTAG 
+negateValues off
+color 34,34,255
+altColor 34,34,255
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+
+track UL87F-6h-dTag-Flavo-Exp2-5-RV
+parent UL87F-6h-dTag-Flavo-Exp2-5 on
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019ls@raw.githubusercontent.com/meierjl/Towne-UL87/master/FJ616285.1/UL87/Exp1_96h_UL87F-Flavo-dTAG-dedup-FJ616285.1-RV-5.bw
+longLabel 5' Exp1 96h UL87HF Flavo 6h dTAG 
+shortLabel 5' Exp1 96h UL87HF Flavo 6h dTAG 
+negateValues on
+color 34,34,255
+altColor 34,34,255
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+
+##########
+
+track Exp1-96h-UL87HF-Flavo-2h-dTAG
+compositeTrack on
+type bigWig 0 1000
+group UL87
+priority 9.5
+visibility full
+shortLabel Exp1 96h UL87HF Flavo 2h dTAG
+longLabel Exp1 96h UL87HF Flavo 2h dTAG
+
+track Exp1-96h-UL87HF-Flavo-2h-dTAG-FW
+parent Exp1-96h-UL87HF-Flavo-2h-dTAG on
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019ls@raw.githubusercontent.com/meierjl/Towne-UL87/master/FJ616285.1/UL87/Exp1_96h_UL87HF-Flavo-2h-dTAG-FW.bw
+longLabel Exp1 96h UL87HF Flavo 2h dTAG 
+shortLabel Exp1 96h UL87HF Flavo 2h dTAG 
+negateValues off
+color 153,58,29
+altColor 153,58,29
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+
+track Exp1-96h-UL87HF-Flavo-2h-dTAG-RV
+parent Exp1-96h-UL87HF-Flavo-2h-dTAG on
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019ls@raw.githubusercontent.com/meierjl/Towne-UL87/master/FJ616285.1/UL87/Exp1_96h_UL87HF-Flavo-2h-dTAG-RV.bw
+longLabel Exp1 96h UL87HF Flavo 2h dTAG 
+shortLabel Exp1 96h UL87HF Flavo 2h dTAG 
+negateValues on
+color 153,58,29
+altColor 153,58,29
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+
+##########
+
+track Exp1-96h-UL87HF-Flavo-6h-PFA
+compositeTrack on
+type bigWig 0 1000
+group UL87
+priority 9.5
+visibility full
+shortLabel Exp1 96h UL87HF Flavo 6h PFA
+longLabel Exp1 96h UL87HF Flavo 6h PFA
+
+track Exp1-96h-UL87HF-Flavo-6h-PFA-FW
+parent Exp1-96h-UL87HF-Flavo-6h-PFA on
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019ls@raw.githubusercontent.com/meierjl/Towne-UL87/master/FJ616285.1/UL87/Exp1_96h_UL87HF-Flavo-6h-PFA-FW.bw
+longLabel Exp1 96h UL87HF Flavo 6h PFA 
+shortLabel Exp1 96h UL87HF Flavo 6h PFA 
+negateValues off
+color 153,58,29
+altColor 153,58,29
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+
+track Exp1-96h-UL87HF-Flavo-6h-PFA-RV
+parent Exp1-96h-UL87HF-Flavo-6h-PFA on
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019ls@raw.githubusercontent.com/meierjl/Towne-UL87/master/FJ616285.1/UL87/Exp1_96h_UL87HF-Flavo-6h-PFA-RV.bw
+longLabel Exp1 96h UL87HF Flavo 6h PFA 
+shortLabel Exp1 96h UL87HF Flavo 6h PFA 
+negateValues on
+color 153,58,29
+altColor 153,58,29
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+
+###############################################################
+
+track Exp1-96h-UL87HF-Flavo-2h-dTAG-6h-PFA
+compositeTrack on
+type bigWig 0 1000
+group UL87
+priority 9.5
+visibility full
+shortLabel Exp1 96h UL87HF Flavo 2h dTAG 6h PFA
+longLabel Exp1 96h UL87HF Flavo 2h dTAG 6h PFA
+
+track Exp1-96h-UL87HF-Flavo-2h-dTAG-6h-PFA-FW
+parent Exp1-96h-UL87HF-Flavo-2h-dTAG-6h-PFA on
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019ls@raw.githubusercontent.com/meierjl/Towne-UL87/master/FJ616285.1/UL87/Exp1_96h_UL87HF-Flavo-2h-dTAG-6h-PFA-FW.bw
+longLabel Exp1 96h UL87HF Flavo 2h dTAG 6h PFA 
+shortLabel Exp1 96h UL87HF Flavo 2h dTAG 6h PFA 
+negateValues off
+color 153,58,29
+altColor 153,58,29
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+
+track Exp1-96h-UL87HF-Flavo-2h-dTAG-6h-PFA-RV
+parent Exp1-96h-UL87HF-Flavo-2h-dTAG-6h-PFA on
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019ls@raw.githubusercontent.com/meierjl/Towne-UL87/master/FJ616285.1/UL87/Exp1_96h_UL87HF-Flavo-2h-dTAG-6h-PFA-RV.bw
+longLabel Exp1 96h UL87HF Flavo 2h dTAG 6h PFA 
+shortLabel Exp1 96h UL87HF Flavo 2h dTAG 6h PFA 
+negateValues on
+color 153,58,29
+altColor 153,58,29
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+
+
+##################################################
+# GSE41605: HCMV ORFs
+##################################################
+# 1: ORFs identified GSE41605
+##################################################
+
+track ORFs-GSE41605
+type bigBed 6 .
+group GSE41605
+priority 1
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/Towne/master/FJ616285.1/GSE41605/ORFs-GSE41605.bb
+longLabel ORFs identified in Decoding HCMV Using Ribosome Profiling (GSE41605)
+shortLabel Identified ORFs
+visibility hide
+noScoreFilter on
+html GSE41605
