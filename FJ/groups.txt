@@ -1,0 +1,34 @@
+name map
+label Mapping
+priority 1
+defaultIsClosed 0
+
+name proseq-procap
+label PRO-Seq and PRO-Cap
+priority 2
+defaultIsClosed 0
+
+name analyses
+label Analyses of Transcription Start Regions
+priority 3
+defaultIsClosed 0
+
+name GSE41605
+label GSE41605: HCMV Ribosome Profiling and ORFs (2012)
+priority 4
+defaultIsClosed 0
+
+name PRJEB15199
+label PRJEB15199: HCMV Paired-End mRNA-Seq (2016)
+priority 5
+defaultIsClosed 0
+
+name PRJEB2543
+label PRJEB2543: HCMV Transcriptome (2011)
+priority 6
+defaultIsClosed 0
+
+name notPublic
+label Not Public - Remove Before Hosting
+priority 7
+defaultIsClosed 0
