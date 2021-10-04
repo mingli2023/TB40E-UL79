@@ -2,7 +2,7 @@ track FJ616285.1-genbank
 type bigGenePred
 group map
 priority 1
-bigDataUrl https://mingli2023:Liming1983*ls@raw.githubusercontent.com/mingli2023/Test/master/FJ616285.1.2bit/FJ616285.1.bb
+bigDataUrl https://mingli2023:Liming1983*ls@raw.githubusercontent.com/mingli2023/Test/FJ/master/FJ616285.1.2bit/FJ616285.1.bb
 longLabel Annotated CDS for HCMV strain Towne (FJ616285.1)
 shortLabel GenBank FJ616285.1
 visibility pack
