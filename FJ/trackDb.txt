@@ -1,0 +1,47 @@
+track FJ616285.1-genbank
+type bigGenePred
+group map
+priority 1
+bigDataUrl https://meierjl:Cmv2019ls@raw.githubusercontent.com/meierjl/Towne-UL87/master/FJ616285.1/FJ616285.1.bb
+longLabel Annotated CDS for HCMV strain Towne (FJ616285.1)
+shortLabel GenBank FJ616285.1
+visibility pack
+
+#############
+
+track UL87H_HA
+compositeTrack on
+type bigWig 0 1000
+priority 9.5
+visibility full
+shortLabel UL87H HA
+longLabel UL87H HA 
+
+track UL87H_HA_ChIP
+parent UL87H_HA
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019ls@raw.githubusercontent.com/meierjl/Towne-UL87/master/FJ616285.1/UL87/UL87H_HA_ChIP-dedup-FJ616285.1.bw
+longLabel UL87H HA ChIP
+shortLabel UL87H HA ChIP
+negateValues off
+color 113,35,124
+altColor 113,35,124
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+
+#############
+
+track UL87H_Pol_II_ChIP
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019ls@raw.githubusercontent.com/meierjl/Towne-UL87/master/FJ616285.1/UL87/UL87H_Pol_II_ChIP-dedup-FJ616285.1.bw
+longLabel UL87H Pol II ChIP
+shortLabel UL87H Pol II ChIP
+negateValues off
+color 113,35,124
+altColor 113,35,124
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
