@@ -1,4 +1,4 @@
-hub UL87 ChIP-Seq
+hub UL87 PRO-Seq
 shortLabel FJ616285.1
 longLabel A compilation of global HCMV data
 genomesFile genomes.txt
