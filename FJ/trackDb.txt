@@ -45,19 +45,4 @@ alwaysZero on
 autoScale on
 maxHeightPixels 128:128:16
 
-##################################################
-# GSE41605: HCMV ORFs
-##################################################
-# 1: ORFs identified GSE41605
-##################################################
-
-track ORFs-GSE41605
-type bigBed 6 .
-group GSE41605
-priority 1
-bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/Towne/master/FJ616285.1/GSE41605/ORFs-GSE41605.bb
-longLabel ORFs identified in Decoding HCMV Using Ribosome Profiling (GSE41605)
-shortLabel Identified ORFs
-visibility hide
-noScoreFilter on
-html GSE41605
+###############
