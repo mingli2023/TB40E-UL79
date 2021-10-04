@@ -8,16 +8,42 @@ shortLabel GenBank FJ616285.1
 visibility pack
 
 #############
+track UL87-No-dTAG-Flavo-Exp2-5
+compositeTrack on 
+type bigWig 0 1000
+group proseq-procap
+priority 11
+visibility full
+shortLabel UL87-No-dTAG-Flavo-Exp2-5
+longLabel UL87-No-dTAG-Flavo-Exp2-5
 
+track UL87-No-dTAG-Flavo-Exp2-5-FW
+parent UL87-No-dTAG-Flavo-Exp2-5 on
+type bigWig 0 1000
+visibility full
+bigDataUrl https://mingli2023:Liming1983*ls@raw.githubusercontent.com/mingli2023/Test/master/FJ/UL87/Exp1_96h_UL87F-Flavo-dedup-FJ616285.1-FW-5.bw
+longLabel 5' Exp1 96h UL87HF Flavo
+shortLabel 5' Exp1 96h UL87HF Flavo 
+negateValues off
+color 34,34,255
+altColor 34,34,255
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
 
-
-
-
-
-
-
-
-
+track UL87-No-dTAG-Flavo-Exp2-5-RV
+parent UL87-No-dTAG-Flavo-Exp2-5 on
+type bigWig 0 1000
+visibility full
+bigDataUrl https://mingli2023:Liming1983*ls@raw.githubusercontent.com/mingli2023/Test/master/FJ/UL87/Exp1_96h_UL87F-Flavo-dedup-FJ616285.1-RV-5.bw
+longLabel 5' Exp1 96h UL87HF Flavo 
+shortLabel 5' Exp1 96h UL87HF Flavo 
+negateValues on
+color 34,34,255
+altColor 34,34,255
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
 
 ##################################################
 # GSE41605: HCMV ORFs
