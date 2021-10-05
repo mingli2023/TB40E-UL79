@@ -1,1 +1,51 @@
+track KF297339.1
+type bigGenePred
+group map
+priority 1
+bigDataUrl https://mingli2023:Liming1983*@raw.githubusercontent.com/mingli2023/TB40E-UL79/master/KF297339.1/KF297339.1.bb
+longLabel Annotated CDS for HCMV strain TB40-E (KF297339.1)
+shortLabel GenBank KF297339.1
+visibility pack
+
+
+##########
+ 
+track Exp1_72h_UL79HF
+compositeTrack on
+type bigWig 0 1000
+group UL79
+priority 9.5
+visibility full
+shortLabel Exp1 72h UL79HF
+longLabel Exp1 72h UL79HF
+ 
+track Exp1_72h_UL79HF_FW
+parent Exp1_72h_UL79HF on
+type bigWig 0 1000
+visibility full
+bigDataUrl https://mingli2023:Liming1983*@raw.githubusercontent.com/mingli2023/TB40E-UL79/master/KF297339.1/UL79/Exp1_72h_UL79HF-dedup-KF297339.1-FW.bw
+longLabel Exp1 72h UL79HF 
+shortLabel Exp1 72h UL79HF 
+negateValues off
+color 113,35,124
+altColor 113,35,124
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+ 
+track Exp1_72h_UL79HF_RV
+parent Exp1_72h_UL79HF on
+type bigWig 0 1000
+visibility full
+bigDataUrl https://mingli2023:Liming1983*@raw.githubusercontent.com/mingli2023/TB40E-UL79/master/KF297339.1/UL79/Exp1_72h_UL79HF-dedup-KF297339.1-RV.bw
+longLabel Exp1 72h UL79HF 
+shortLabel Exp1 72h UL79HF 
+negateValues on
+color 113,35,124
+altColor 113,35,124
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+
+##########
 
