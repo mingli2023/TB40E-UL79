@@ -1,6 +1,0 @@
-hub UL87 PRO-Seq
-shortLabel FJ616285.1
-longLabel A compilation of global HCMV data
-genomesFile genomes.txt
-email ming-li@uiowa.edu
-descriptionUrl https://www.ncbi.nlm.nih.gov/nuccore/FJ616285.1 
