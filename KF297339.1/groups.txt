@@ -1,9 +1,4 @@
 name UL79
 label PRO-Seq
-priority 1
-defaultIsClosed 0
-
-name map
-label Mapping
-priority 4
+priority 2
 defaultIsClosed 0
