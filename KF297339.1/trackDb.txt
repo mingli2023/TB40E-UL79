@@ -14,7 +14,7 @@ track Exp1_72h_UL79HF
 compositeTrack on
 type bigWig 0 1000
 group UL79
-priority 9.5
+priority 1
 visibility full
 shortLabel Exp1 72h UL79HF
 longLabel Exp1 72h UL79HF
@@ -46,6 +46,3 @@ altColor 113,35,124
 alwaysZero on
 autoScale on
 maxHeightPixels 128:128:16
-
-##########
-
