@@ -7,7 +7,6 @@ longLabel Annotated CDS for HCMV strain TB40-E (KF297339.1)
 shortLabel GenBank KF297339.1
 visibility pack
 
-
 ##########
  
 track Exp1_72h_UL79HF
@@ -46,3 +45,5 @@ altColor 113,35,124
 alwaysZero on
 autoScale on
 maxHeightPixels 128:128:16
+
+##########
