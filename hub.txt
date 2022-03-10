@@ -1,6 +1,6 @@
 hub KF297339.1
 shortLabel KF297339.1
-longLabel UL79 PRO-Seq 
+longLabel Exp1 72h UL79HF 
 genomesFile genomes.txt
 email ming-li@uiowa.edu
 descriptionUrl https://www.ncbi.nlm.nih.gov/nuccore/KF297339.1
