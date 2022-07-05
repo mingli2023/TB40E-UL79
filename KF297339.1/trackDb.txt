@@ -2,7 +2,7 @@ track KF297339.1
 type bigGenePred
 group map
 priority 1
-bigDataUrl https://mingli2023:Liming1983*@raw.githubusercontent.com/mingli2023/TB40E-UL79/master/KF297339.1/KF297339.1.bb
+bigDataUrl https://mingli2023:Liming2030*@raw.githubusercontent.com/mingli2023/TB40E-UL79/master/KF297339.1/KF297339.1.bb
 longLabel Annotated CDS for HCMV strain TB40-E (KF297339.1)
 shortLabel GenBank KF297339.1
 visibility pack
@@ -22,7 +22,7 @@ track Exp1_72h_UL79HF_FW
 parent Exp1_72h_UL79HF on
 type bigWig 0 1000
 visibility full
-bigDataUrl https://mingli2023:Liming1983*@raw.githubusercontent.com/mingli2023/TB40E-UL79/master/KF297339.1/UL79/Exp1_72h_UL79HF-dedup-KF297339.1-FW.bw
+bigDataUrl https://mingli2023:Liming2030*@raw.githubusercontent.com/mingli2023/TB40E-UL79/master/KF297339.1/UL79/Exp1_72h_UL79HF-dedup-KF297339.1-FW.bw
 longLabel Exp1 72h UL79HF 
 shortLabel Exp1 72h UL79HF 
 negateValues off
@@ -36,7 +36,7 @@ track Exp1_72h_UL79HF_RV
 parent Exp1_72h_UL79HF on
 type bigWig 0 1000
 visibility full
-bigDataUrl https://mingli2023:Liming1983*@raw.githubusercontent.com/mingli2023/TB40E-UL79/master/KF297339.1/UL79/Exp1_72h_UL79HF-dedup-KF297339.1-RV.bw
+bigDataUrl https://mingli2023:Liming2030*@raw.githubusercontent.com/mingli2023/TB40E-UL79/master/KF297339.1/UL79/Exp1_72h_UL79HF-dedup-KF297339.1-RV.bw
 longLabel Exp1 72h UL79HF 
 shortLabel Exp1 72h UL79HF 
 negateValues on
