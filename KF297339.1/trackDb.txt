@@ -47,3 +47,11 @@ autoScale on
 maxHeightPixels 128:128:16
 
 ##########
+track KF297339.1
+type bigGenePred
+group map
+priority 1
+bigDataUrl https://mingli2023:Liming2030*@raw.githubusercontent.com/mingli2023/TB40E-UL79/master/KF297339.1/BAC_region.bb
+longLabel Annotated CDS for HCMV strain TB40-E (KF297339.1)
+shortLabel GenBank KF297339.1
+visibility pack
