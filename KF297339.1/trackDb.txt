@@ -49,18 +49,12 @@ maxHeightPixels 128:128:16
 
 ##########
 
-track BAC_region
-bigDataUrl BAC_region.bb
-shortLabel BAC
-longLabel BAC cassette region
-type bigBed 4
-visibility pack
-
 track KF297339.1_BAC
-type bigGenePred
+type bigBed 4
 group map
 priority 2
-bigDataUrl https://mingli2023:Liming2030*@raw.githubusercontent.com/mingli2023/TB40E-UL79/master/KF297339.1/BAC_region.bb
+bigDataUrl https://raw.githubusercontent.com/mingli2023/TB40E-UL79/master/KF297339.1/BAC_region.bb
 longLabel BAC cassette region in HCMV strain TB40-E (KF297339.1)
 shortLabel BAC region
 visibility pack
+
