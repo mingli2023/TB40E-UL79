@@ -1,0 +1,1 @@
+Simulated BigBed binary content
