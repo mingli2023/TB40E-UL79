@@ -7,6 +7,13 @@ longLabel Annotated CDS for HCMV strain TB40-E (KF297339.1)
 shortLabel GenBank KF297339.1
 visibility pack
 
+track BAC_region
+bigDataUrl BAC_region.bb
+shortLabel BAC
+longLabel BAC cassette region
+type bigBed 4
+visibility pack
+
 ##########
  
 track Exp1_72h_UL79HF
